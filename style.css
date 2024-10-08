@@ -1,0 +1,25 @@
+body{
+background-color: rgb(9, 10, 10);
+color: rgb(22, 221, 188);
+font-family: "Merienda", cursive;
+padding: 0 100px;
+}
+ 
+header{
+background-color: aqua;
+padding:40px;
+}
+
+.links{
+color: #FFF;
+font-size:30px;
+text-decoration:none;
+background:linear-gradient(red,purple);
+padding:15px 25px;
+border-radius:30px;
+}
+
+h1{
+color:aqua;
+text-align:center;
+}
